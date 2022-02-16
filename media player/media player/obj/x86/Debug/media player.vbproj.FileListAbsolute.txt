@@ -1,0 +1,14 @@
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\bin\Debug\media player.exe
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\bin\Debug\media player.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\bin\Debug\media player.xml
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media player.vbproj.ResolveComReference.cache
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media_player.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media_player.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media player.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media player.exe
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media player.xml
+C:\Users\Ahmad Fathy\Desktop\math test\media player\media player\obj\x86\Debug\media player.pdb
