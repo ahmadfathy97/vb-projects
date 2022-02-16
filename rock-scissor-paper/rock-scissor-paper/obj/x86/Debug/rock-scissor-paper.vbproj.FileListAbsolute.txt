@@ -1,0 +1,9 @@
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\bin\Debug\rock-scissor-paper.exe
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\bin\Debug\rock-scissor-paper.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\bin\Debug\rock-scissor-paper.xml
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock_scissor_paper.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock_scissor_paper.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock-scissor-paper.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock-scissor-paper.exe
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock-scissor-paper.xml
+C:\Users\Ahmad Fathy\Desktop\math test\rock-scissor-paper\rock-scissor-paper\obj\x86\Debug\rock-scissor-paper.pdb
