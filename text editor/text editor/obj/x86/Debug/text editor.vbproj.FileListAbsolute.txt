@@ -1,0 +1,9 @@
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\bin\Debug\text editor.exe
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\bin\Debug\text editor.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\bin\Debug\text editor.xml
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text_editor.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text_editor.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text editor.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text editor.exe
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text editor.xml
+C:\Users\Ahmad Fathy\Desktop\math test\text editor\text editor\obj\x86\Debug\text editor.pdb
