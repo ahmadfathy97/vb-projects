@@ -7,3 +7,13 @@ C:\Users\Ahmad Fathy\Desktop\math test\WindowsApplication1\WindowsApplication1\o
 C:\Users\Ahmad Fathy\Desktop\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
 C:\Users\Ahmad Fathy\Desktop\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
 C:\Users\Ahmad Fathy\Desktop\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\New folder\math test\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources

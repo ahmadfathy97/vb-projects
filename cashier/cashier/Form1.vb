@@ -1,34 +1,47 @@
 ﻿Public Class Form1
+    ' total price starts with 0
     Dim totalPrice As Double = 0
-    Public Function itemPrice(ByVal itemIndex As Single) As Double
+
+    ' function that return the item price
+    Public Function itemPrice(ByVal item As String) As Double
         Dim p As Double
-        If (itemIndex = 0) Then
+        If (item = "مسقعة") Then
             p = 2.5
-        ElseIf (itemIndex = 1) Then
+        ElseIf (item = "فول") Then
             p = 3
-        ElseIf (itemIndex = 2) Then
+        ElseIf (item = "طعمية") Then
             p = 3
-        ElseIf (itemIndex = 3) Then
+        ElseIf (item = "بطاطس صوابع") Then
             p = 2.5
-        ElseIf (itemIndex = 4) Then
+        ElseIf (item = "بانية") Then
             p = 3.5
-        ElseIf (itemIndex = 5) Then
+        ElseIf (item = "بطاطس شيبسي") Then
             p = 3
-        ElseIf (itemIndex = 6) Then
+        ElseIf (item = "بيض") Then
             p = 3.5
-        ElseIf (itemIndex = 7) Then
+        ElseIf (item = "باذنجان") Then
             p = 4
         End If
         itemPrice = p
     End Function
+
+    ' click event that add:
+    ' the item
+    ' its price 
+    ' and how many sandwich of it to each listbox
+    ' and then add the price of these sandwiches to the total price 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
-        ListBox1.Items.Add(NumericUpDown1.Value)
-        ListBox2.Items.Add(ComboBox1.SelectedItem)
-        ListBox3.Items.Add(itemPrice(ComboBox1.SelectedIndex) * NumericUpDown1.Value)
-        totalPrice += itemPrice(ComboBox1.SelectedIndex) * NumericUpDown1.Value
-        Label5.Text = totalPrice
+        If (NumericUpDown1.Value > 0 And ComboBox1.SelectedIndex >= 0) Then
+            ListBox1.Items.Add(NumericUpDown1.Value)
+            ListBox2.Items.Add(ComboBox1.SelectedItem)
+            ListBox3.Items.Add(itemPrice(ComboBox1.SelectedItem) * NumericUpDown1.Value)
+            totalPrice += itemPrice(ComboBox1.SelectedItem) * NumericUpDown1.Value
+            Label5.Text = totalPrice
+        End If
+
     End Sub
 
+    ' click event that clear all the items in all list boxes, and make the total price equal to 0 
     Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
         ListBox1.Items.Clear()
         ListBox2.Items.Clear()
@@ -37,25 +50,16 @@
         Label5.Text = totalPrice
     End Sub
 
+    ' click event that remove the selected item and subtract its price from the total price 
     Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
         Dim index As Single = ListBox2.SelectedIndex
-        totalPrice -= ListBox3.Items(index)
-        Label5.Text = totalPrice
-        ListBox1.Items.Remove(ListBox1.Items(index))
-        ListBox2.Items.Remove(ListBox2.SelectedItem)
-        ListBox3.Items.Remove(ListBox3.Items(index))
+        If (ListBox2.SelectedIndex >= 0) Then
+            totalPrice -= ListBox3.Items(index)
+            Label5.Text = totalPrice
+            ListBox1.Items.RemoveAt(index)
+            ListBox2.Items.RemoveAt(index)
+            ListBox3.Items.RemoveAt(index)
+        End If
+
     End Sub
-
-    'Private Sub ListBox1_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ListBox1.SelectedIndexChanged
-    'TextBox1.Text = ListBox1.SelectedItem
-    'End Sub
-
-    'Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
-    '   Dim price As Double = itemPrice(ListBox1.SelectedIndex)
-    '   totalPrice -= ListBox1.SelectedItem * price
-    '   ListBox1.Items(ListBox1.SelectedIndex) = TextBox1.Text
-    '   ListBox3.Items(ListBox1.SelectedIndex) = TextBox1.Text * price
-    '   totalPrice += TextBox1.Text * price
-    '   Label5.Text = totalPrice
-    'End Sub
 End Class
