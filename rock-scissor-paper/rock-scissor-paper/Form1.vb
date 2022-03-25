@@ -33,6 +33,23 @@
         comp_score_label.Text = comp_score
         user_score_label.Text = user_score
         winner = 0
+
+        If (comp_score = 50) Then
+            MsgBox("computer wins")
+            comp_score = 0
+            user_score = 0
+            comp_score_label.Text = comp_score
+            user_score_label.Text = user_score
+        End If
+        If (user_score = 50) Then
+            MsgBox("you win")
+            comp_score = 0
+            user_score = 0
+            comp_score_label.Text = comp_score
+            user_score_label.Text = user_score
+        End If
+
+
     End Function
 
     Public Function random() As Single
