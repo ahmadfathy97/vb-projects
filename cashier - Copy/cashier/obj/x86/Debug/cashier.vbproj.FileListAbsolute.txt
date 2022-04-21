@@ -1,0 +1,23 @@
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\bin\Debug\cashier.exe
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\bin\Debug\cashier.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\bin\Debug\cashier.xml
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.exe
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.xml
+C:\Users\Ahmad Fathy\Desktop\math test\cashier\cashier\obj\x86\Debug\cashier.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.exe
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.xml
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\bin\Debug\cashier.exe
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\bin\Debug\cashier.pdb
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\bin\Debug\cashier.xml
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.Form1.resources
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.Resources.resources
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.vbproj.GenerateResource.Cache
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmad Fathy\Desktop\math test\cashier - Copy\cashier\obj\x86\Debug\cashier.vbproj.ResolveComReference.cache
