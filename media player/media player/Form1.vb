@@ -34,6 +34,7 @@
 
     Private Sub Button6_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button6.Click
         AxWindowsMediaPlayer1.Ctlcontrols.stop()
+        ProgressBar1.Value = 0
     End Sub
 
     Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
@@ -51,5 +52,21 @@
 
     Private Sub Button8_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
         AxWindowsMediaPlayer1.Ctlcontrols.next()
+    End Sub
+
+    Private Sub Button8_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        MsgBox(AxWindowsMediaPlayer1.Ctlcontrols.currentPosition / AxWindowsMediaPlayer1.Ctlcontrols.currentItem.duration)
+
+    End Sub
+
+    Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
+        If (AxWindowsMediaPlayer1.URL <> "") Then
+            Dim d As Single = AxWindowsMediaPlayer1.currentMedia.duration
+            Dim cp As Single = AxWindowsMediaPlayer1.Ctlcontrols.currentPosition
+            Dim percentage As Single = cp / d * 100
+            If (percentage > 0) Then
+                ProgressBar1.Value = percentage
+            End If
+        End If
     End Sub
 End Class
